@@ -1,0 +1,90 @@
+body{
+    background-image: url(sfondolim.jpg);
+    background-size: cover;
+    font-family: 'Geologica', sans-serif;
+}
+
+.container-principal{
+    background-color: rgba(0, 0, 0, 0.493);
+    border-radius: 15px;
+    width: 850px;
+    height: 600px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 50px;
+}
+
+.container{    
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 700px;
+}
+
+.logo{
+    width: 180px;
+    margin-left: 260px;
+    margin-top: 70px;
+    margin-bottom: 5px;
+}
+
+.mission{
+    color: rgb(53, 248, 4);
+    font-size: 25px;
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.row{
+    background-color: rgb(53, 248, 4);
+    padding: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+button{
+    padding: 1px;
+    margin: 2px;
+    font-size: 10px;
+}
+
+span{
+    font-size: 13px;
+}
+
+.mono-disp{
+    color: white;
+    font-size: 10px;
+}
+
+.name-monop{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.row-caricagino{
+    background-color: orange;
+    padding: 10px;
+    margin-right: 65%;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.row-caricamike{
+    background-color: green;
+    padding: 10px;
+    margin-right: 35%;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+
+.row-caricafede{
+    background-color: red;
+    padding: 10px;
+    margin-right: 80%;
+    border-radius: 3px;
+}
+
